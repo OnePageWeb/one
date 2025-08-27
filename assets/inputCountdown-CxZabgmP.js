@@ -5,4 +5,26 @@ const o="倒计时",n="简单的倒计时功能，输入总秒数，摁下CTRL+E
   justify-content: center;
   font-size: 24px;
   font-weight: bold;
-}`,s="input",i={name:"倒计时",desc:n,config:t,style:e,type:s};export{t as config,i as default,n as desc,o as name,e as style,s as type};
+  height: calc(100% - 70px) !important;
+}
+
+.input {
+  height: 32px !important;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.el-textarea__inner {
+  text-align: center;
+  font-size: large;
+}
+
+.executeIcon {
+  top: 36px !important;
+}
+
+.clearIcon, .copyIcon {
+  display: none;
+}`,i="input",c={name:"倒计时",desc:n,config:t,style:e,type:i};export{t as config,c as default,n as desc,o as name,e as style,i as type};
