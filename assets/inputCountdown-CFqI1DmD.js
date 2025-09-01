@@ -16,9 +16,11 @@ const o="倒计时",n="简单的倒计时功能，输入总秒数，摁下CTRL+E
   justify-content: center;
 }
 
-.el-textarea__inner {
-  text-align: center;
-  font-size: large;
+.ioContainer {
+  .el-textarea__inner {
+    text-align: center;
+    font-size: large;
+  }
 }
 
 .executeIcon {
