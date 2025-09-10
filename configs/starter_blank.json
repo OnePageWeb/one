@@ -1,0 +1,31 @@
+{
+  "globalStyle": {
+    "globalStyle-tag-默认": ".grid-stack {\n  background-color: unset;\n}\nbody {\n}\n.linkItem .el-text {\n    color: #efefef;\n}",
+    "globalStyle-tags": [
+      "默认"
+    ],
+    "globalStyle-selectTags": [
+      "默认"
+    ]
+  },
+  "layout": [
+    {
+      "type": "text",
+      "id": "f5c97e3eeeda-4721-8090-a14f7614b7d0",
+      "x": 21,
+      "y": 22,
+      "w": 6,
+      "h": 6
+    }
+  ],
+  "configLock": false,
+  "configUrl": null,
+  "components": [
+    {
+      "id": "f5c97e3eeeda-4721-8090-a14f7614b7d0",
+      "style": ".result {\n  color: #161616;\n  font-weight: bold;\n  padding: 8px 8px;\n  background: #e9e9e9bf;\n  border-radius: 8px;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  width: calc(100% - 16px);\n  height: calc(100% - 16px);\n  backdrop-filter: blur(4px);\n}",
+      "data": "{\"text\":\"空白\",\"params\":[]}",
+      "type": "text"
+    }
+  ]
+}
