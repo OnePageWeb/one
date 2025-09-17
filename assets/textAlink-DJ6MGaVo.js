@@ -1,4 +1,4 @@
-const n="简单链接",t="通过配置来显示一个简单的链接，点击即可跳转",e='{"text":"<a href=\\"@{链接地址?https://github.com/Verlif/one}\\" class=\\"link-block\\" target=\\"_blank\\">\\n  <img src=\\"@{图标地址?https://picsum.photos/100/100}\\" alt=\\"图标\\" class=\\"link-image\\">\\n  <span class=\\"link-name\\">@{标签名称?标签名称}</span>\\n</a>","params":[{"name":"链接地址","desc":"","value":"https://github.com/Verlif/one"},{"name":"图标地址","desc":"","value":"https://picsum.photos/200/200"},{"name":"标签名称","desc":"","value":"标签名称"}]}',o=`.result {
+const n="带图链接",t="通过配置来显示一个简单的链接，点击即可跳转",e='{"text":"<a href=\\"@{链接地址?https://github.com/Verlif/one}\\" class=\\"link-block\\" target=\\"_blank\\">\\n  <img src=\\"@{图标地址?https://picsum.photos/100/100}\\" alt=\\"图标\\" class=\\"link-image\\">\\n  <span class=\\"link-name\\">@{标签名称?标签名称}</span>\\n</a>","params":[{"name":"链接地址","desc":"","value":"https://github.com/Verlif/one"},{"name":"图标地址","desc":"","value":"https://picsum.photos/200/200"},{"name":"标签名称","desc":"","value":"标签名称"}]}',o=`.result {
     align-items: center;
     display: flex;
     justify-content: center;

@@ -6,4 +6,4 @@ const n="按下显示",e="显示键盘的输入",t=`{"content":{"text":"setResul
   justify-content: center;
   font-size: 24px;
   font-weight: bold;
-}`,i=2,s=3,a="function",l={name:n,desc:e,config:t,style:o,w:2,h:3,type:a};export{t as config,l as default,e as desc,s as h,n as name,o as style,a as type,i as w};
+}`,i=3,s=3,a="function",l={name:n,desc:e,config:t,style:o,w:3,h:3,type:a};export{t as config,l as default,e as desc,s as h,n as name,o as style,a as type,i as w};
