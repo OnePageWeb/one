@@ -1,1 +1,0 @@
-const n="JSON转义",t="转义JSON字符串",e=`{"name":"JSON转义","content":"if (input.includes('\\\\\\\\\\"')) {\\n  return JSON.parse(input)\\n} else {\\n  return JSON.stringify(input, null, 2)\\n}"}`,s="input",i={name:n,desc:t,config:e,type:s};export{e as config,i as default,t as desc,n as name,s as type};
