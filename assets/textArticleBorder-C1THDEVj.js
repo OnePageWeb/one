@@ -1,4 +1,4 @@
-const n="装饰线标题文章",t="简单的文章块，用于展示文章内容，左侧装饰线",e=["text","article"],a='{"text":"<div class=\\"article article-magazine\\">\\n  <div class=\\"title\\">设计的边界</div>\\n  <div class=\\"content\\">\\n    设计并不是无限扩张的，它需要边界来塑造秩序。  \\n    边界不仅是限制，也是指引。  \\n    在边界中，创意才得以真正发挥。\\n  </div>\\n</div>","params":[]}',c=`.article-magazine {
+const n="装饰线标题文章",t="简单的文章块，用于展示文章内容，左侧装饰线",e=["text","article","card"],a='{"text":"<div class=\\"article article-magazine\\">\\n  <div class=\\"title\\">设计的边界</div>\\n  <div class=\\"content\\">\\n    设计并不是无限扩张的，它需要边界来塑造秩序。  \\n    边界不仅是限制，也是指引。  \\n    在边界中，创意才得以真正发挥。\\n  </div>\\n</div>","params":[]}',c=`.article-magazine {
   height: calc(100% - 100px);
   width: calc(100% - 100px);
   margin: 20px auto;

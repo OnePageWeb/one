@@ -1,4 +1,4 @@
-const n="右上角标题文章",t="简单的文章块，用于展示文章内容，标题在右上角",e=["text","article"],o='{"text":"<div class=\\"article-corner\\">\\n  <div class=\\"title\\">右上角标题</div>\\n  <div class=\\"content\\">\\n    这是一个标题在右上角的示例。  \\n    适合小短文或者强调内容开头。  \\n    让排版更有层次感和现代感。\\n  </div>\\n</div>\\n","params":[]}',c=`.article-corner {
+const n="右上角标题文章",t="简单的文章块，用于展示文章内容，标题在右上角",e=["text","article","card"],o='{"text":"<div class=\\"article-corner\\">\\n  <div class=\\"title\\">右上角标题</div>\\n  <div class=\\"content\\">\\n    这是一个标题在右上角的示例。  \\n    适合小短文或者强调内容开头。  \\n    让排版更有层次感和现代感。\\n  </div>\\n</div>\\n","params":[]}',c=`.article-corner {
   position: relative;
   background: #fafafa;
   border-radius: 10px;

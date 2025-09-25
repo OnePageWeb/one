@@ -1,4 +1,4 @@
-const n="简单文章块",t="简单的文章块，用于展示文章内容",i=["text","article"],e='{"text":"<div class=\\"article article-minimal\\">\\n  <div class=\\"title\\">极简主义的美学</div>\\n  <div class=\\"content\\">\\n    极简不仅是一种设计风格，更是一种生活态度。  \\n    去掉冗余，只留下最本质的表达。  \\n    在有限的空间中，留给读者无限的想象。\\n  </div>\\n</div>","params":[]}',a=`.article-minimal {
+const n="简单文章块",t="简单的文章块，用于展示文章内容",i=["text","article","card"],e='{"text":"<div class=\\"article article-minimal\\">\\n  <div class=\\"title\\">极简主义的美学</div>\\n  <div class=\\"content\\">\\n    极简不仅是一种设计风格，更是一种生活态度。  \\n    去掉冗余，只留下最本质的表达。  \\n    在有限的空间中，留给读者无限的想象。\\n  </div>\\n</div>","params":[]}',a=`.article-minimal {
   margin: 20px;
   height: calc(100% - 100px);
   width: calc(100% - 100px);
