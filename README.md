@@ -1,6 +1,6 @@
 # 一页 - 高度可定制的仪表盘应用
 
-![一页](https://img.shields.io/badge/Version-1.0.0-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue) ![SPA](https://img.shields.io/badge/SPA-Yes-success) ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-Yes-important)
+![一页](https://img.shields.io/badge/Version-1.0.0-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue) ![SPA](https://img.shields.io/badge/SPA-Yes-success) ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-Yes-important) [![Netlify Status](https://api.netlify.com/api/v1/badges/503f775c-8035-4212-9785-b0954adcff3c/deploy-status)](https://app.netlify.com/projects/one-page-verlif/deploys)
 
 一页 是一个现代化的、高度可定制的仪表盘（Dashboard）单页面应用（SPA）。它允许您聚合关键信息、链接和工具，打造一个完全属于您个人的工作台或信息中枢。
 
